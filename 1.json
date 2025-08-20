@@ -7,12 +7,12 @@
             "birthday": 1044921600000,
             "_id": "67121eded8caf90001cb85fa"
         },
-        "id": "67121eded8caf90001cb85fa_9223370281425060807_tr",
+        "id": "67121eded8caf90001cb85fa_9223370281258927807_tr",
         "feel": -1,
-        "calorie": 165,
-        "duration": 1413,
-        "startTime": 1755428299000,
-        "endTime": 1755429715000,
+        "calorie": 76,
+        "duration": 1157,
+        "startTime": 1755594689000,
+        "endTime": 1755595848000,
         "type": "training",
         "subtype": "normal",
         "timezone": "Asia/Shanghai",
@@ -38,9 +38,9 @@
             98000
         ],
         "heartRate": {
-            "heartRates": "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",
-            "averageHeartRate": 146.0,
-            "maxHeartRate": 183,
+            "heartRates": "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",
+            "averageHeartRate": 113.0,
+            "maxHeartRate": 139,
             "wearableDevices": [
                 {
                     "macAddress": null,
@@ -54,7 +54,7 @@
             "manufacturer": "Huawei",
             "genre": "Huawei",
             "deviceModel": "HUAWEI Band 10",
-            "vendorRecordId": "1755428299000_tr_others"
+            "vendorRecordId": "1755594689000_tr_others"
         },
         "planId": null,
         "workoutId": null,
